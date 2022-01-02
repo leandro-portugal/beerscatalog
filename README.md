@@ -6,6 +6,9 @@
 - [X] List All Registered Beers
 - [x] List Beer by ID
 - [x] Add A New Beer
+- [X] List All Registered Beer Styles
+- [x] List Styles by ID
+- [x] Add A New Beer Styles
 
 ## Applied Knowledge
 
